@@ -21,7 +21,7 @@ ul {
 a {
   display: flex;
   flex-direction: column;
-  align-tems: center;
+  align-items: center;
   color: #76a500
 }
 
